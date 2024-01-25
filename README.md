@@ -2,7 +2,7 @@
 
 I’m a graduate student at the University of California, Santa Barbara in the Materials department.
 
-I'm currently expanding my coding knowledge in data sceince and automated controls applications for metal 3D printing.
+I'm currently expanding my coding knowledge in data science, automated controls applications for metal 3D printing, and machine learning.
 
 To reach me, please email *jlamb@ucsb.edu*
 
