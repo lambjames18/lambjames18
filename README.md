@@ -2,7 +2,7 @@
 
 I’m a postdoctoral researcher at the University of California, Santa Barbara in the Materials department.
 
-I'm currently expanding my coding knowledge in data science, automated controls applications for metal 3D printing, and machine learning.
+I'm currently expanding my coding knowledge in data science, automation, and machine learning.
 
 To reach me, please email *lambjames18@gmail.com*
 
