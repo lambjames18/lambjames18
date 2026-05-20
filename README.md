@@ -3,6 +3,8 @@
 **Postdoctoral Appointee — Sandia National Laboratories**  
 Materials Science | Automation | Machine Learning / AI
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Postdoctoral+Researcher;Materials+Scientist;Machine+Learning+Engineer)](https://git.io/typing-svg)
+
 ---
 
 ## About Me
